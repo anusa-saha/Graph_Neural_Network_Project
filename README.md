@@ -165,7 +165,7 @@ os.system('unzip fraud-detection-1m-transactions-7-fraud-types.zip')
 Graph_Neural_Network/
 │
 ├── financial_fraud_detection_using_gnn.ipynb   # Main experiment notebook
-├── ai_term_project.pdf                          # Full project report
+├── project_report.pdf                          # Full project report
 │
 ├── models/
 │   ├── best_model.pt           # Best GATv2 checkpoint (Exponential decay)
