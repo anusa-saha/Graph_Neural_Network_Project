@@ -22,8 +22,7 @@
 9. [Evaluation](#9-evaluation)
 10. [Results and Analysis](#10-results-and-analysis)
 11. [Repository Structure](#11-repository-structure)
-12. [Authors and Contributions](#12-authors-and-contributions)
-13. [References](#13-references)
+12. [References](#13-references)
 
 ---
 
@@ -434,23 +433,13 @@ The t-SNE visualizations reveal a consistent pattern across all GATv2 variants: 
 │   ├── Section 13: MLP Baseline Training
 │   └── Section 14: t-SNE Visualization (All Models — Balanced & Imbalanced)
 │
-└── ai_term_project.pdf   # Full academic project report
+└── project_report.pdf   # Full project report
 ```
 
 ---
 
-## 12. Authors and Contributions
 
-This project was submitted as a Term Project for **Artificial Intelligence (UCS06B28)**, 6th Semester, Section B, at the **National Institute of Technology Agartala**, Department of Computer Science and Engineering.
-
-| Contributor | Enrollment | Contributions |
-|---|---|---|
-| **Anvesh Reddy Lankala** | 23UCS127 | Experimental Design, Literature Review on GATv2, Model Architecture & Validation, Class Imbalance Methodology, Documentation |
-| **Bhumi Gautam** | 23UCS105 | Dataset Curation, Preprocessing & Feature Engineering, Literature Review on Financial Fraud, Graph Construction Methodology, Tutorial |
-
----
-
-## 13. References
+## 12. References
 
 [1] P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Liò, and Y. Bengio, "Graph Attention Networks," *International Conference on Learning Representations (ICLR)*, 2018.
 
